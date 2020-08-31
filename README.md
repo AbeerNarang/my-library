@@ -1,2 +1,2 @@
-# my-library
-working on library on visual code studio.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
